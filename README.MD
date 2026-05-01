@@ -422,20 +422,3 @@ on size features           via 5-fold cross-validation  ready pricing model
 ![Seaborn](https://img.shields.io/badge/Seaborn-0.12+-9B4E8E?style=flat-square)
 ![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-F37626?style=flat-square&logo=jupyter&logoColor=white)
 
----
-
-## 👤 Author
-
-Built as part of a 5-project ML Engineering Portfolio:
-
-| # | Algorithm | Domain | Status |
-|---|-----------|--------|--------|
-| 1 | Linear Regression | NBA Sports Analytics | ✅ Done |
-| **2** | **Ridge Regression** | **Ames Real Estate** | **✅ Done** |
-| 3 | Lasso Regression | Healthcare / Diabetes | ✅ Done |
-| 4 | ElasticNet | Finance / Macro Economics | 🔄 In Progress |
-| 5 | Naive Bayes | NLP / Spam Detection | 🔄 In Progress |
-
----
-
-*Part of the ML Engineering Portfolio — Project 2 of 5*
